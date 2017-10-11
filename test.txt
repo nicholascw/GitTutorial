@@ -1,3 +1,5 @@
 Hello this is a test document
 
+Presented by ACM :)
+
 We'll be using this document to demonstrate some basic git commands
