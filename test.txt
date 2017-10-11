@@ -1,0 +1,3 @@
+Hello this is a test document
+
+We'll be using this document to demonstrate some basic git commands
